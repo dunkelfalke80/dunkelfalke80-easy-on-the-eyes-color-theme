@@ -1,0 +1,4 @@
+# Exclude unnecessary files
+.vscode/
+*.log
+*.vsix

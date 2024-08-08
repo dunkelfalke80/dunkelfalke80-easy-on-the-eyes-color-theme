@@ -1,0 +1,27 @@
+{
+  "name": "dunkelfalke80-easy-on-the-eyes-color-theme",
+  "displayName": "Easy On The Eyes Theme",
+  "description": "Well, duh.",
+  "version": "1.0.2",
+  "publisher": "dunkelfalke80",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dunkelfalke80/dunkelfalke80-easy-on-the-eyes-color-theme"
+  },  
+  "engines": {
+    "vscode": "^1.0.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Easy On The Eyes Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dunkelfalke80-easy-on-the-eyes-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon.png"  
+}
